@@ -4,5 +4,4 @@ it provides a use-Friendly paltform for individuals with similar travel routes a
 and organize carpooling arrangements. The application's primary objective is to promote sustainable and economical commuting practices while reducing the enviromental impact of individual travel.
 The application will facilitate user registration, enabling individuals to create personalized accounts with essentials information. Both drivers and passengers will have the ability to create and manage trip listing, incorporating specific travel details such as departure and arrival times, pickup location and destinations.
 
-## Demo Video 
-![Video Alt Text]('C:\Users\DEll\OneDrive\Desktop\Screen Recording\DemoVideo')
+
